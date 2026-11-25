@@ -1,0 +1,3 @@
+Placebo: Copyright (c) 2019 Brennan Ward, MIT (see LICENSE).
+ConfigCategory, ConfigElement, ConfigGuiType, Configuration, IConfigElement, Property in dev.shadowsoffire.placebo.config: Minecraft Forge, copyright 2016-2018, LGPL version 2.1 (see LGPL-2.1.txt). Original headers retained; corresponding source included.
+dev.shadowsoffire.placebo.util.AbstractBiMap: Copyright (C) 2007 The Guava Authors, Apache License 2.0 (see Apache-2.0.txt). Upstream Placebo adaptation of Guava; original header retained.
